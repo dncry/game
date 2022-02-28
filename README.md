@@ -341,8 +341,6 @@
 * 控制
 * 八方旅人
 * Touhou Luna Nights
-* CS GO
-* 星际战甲
 * 掠食
 * 幽浮2（ing）
 * Hob
