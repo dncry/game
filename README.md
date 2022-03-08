@@ -350,6 +350,7 @@
 * 疯狂的麦克斯
 * 尼尔 机械纪元
 * 无双大蛇3
+* Nobody Saves the World
 
 ### 计划中
 * 幽浮2（ing）
