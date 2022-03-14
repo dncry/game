@@ -352,10 +352,10 @@
 * 无双大蛇3
 * Nobody Saves the World
 * 我的世界 地下城
+* 哈迪斯
 
 ### 计划中
 * 幽浮2（ing）
-* 黑帝斯（ing）
 * 蔚蓝（ing）
 * 战场女武神（ing）
 * GTA5（ing）
