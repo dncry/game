@@ -371,6 +371,7 @@
 * 整蛊白云
 * TUNIC
 * Donut County
+* AI:THE SOMNIUM FILES
 
 
 ### 计划中
