@@ -373,6 +373,7 @@
 * Donut County
 * AI:THE SOMNIUM FILES
 * 蒂德莉特的奇境冒险
+* GRIS
 
 
 ### 计划中
