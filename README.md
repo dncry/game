@@ -374,6 +374,8 @@
 * AI:THE SOMNIUM FILES
 * 蒂德莉特的奇境冒险
 * GRIS
+* 流放者柯南
+* 热血物语sp
 
 
 ### 计划中
