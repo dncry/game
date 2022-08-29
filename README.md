@@ -386,6 +386,7 @@
 * 核心重铸
 * Monster Sanctuary
 * 意航员2
+* Flynn: Son of Crimson
 
 ### 计划中
 * 幽浮2（ing）
