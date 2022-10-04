@@ -392,6 +392,7 @@
 * Flynn: Son of Crimson
 * 量子破碎
 * 星位继承者
+* Fae Tactics
 
 ### 计划中
 * 幽浮2（ing）
