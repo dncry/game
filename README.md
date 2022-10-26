@@ -302,6 +302,7 @@
 * 泰拉瑞亚
 * CHAOS;HEAD
 * ever17
+* Remember11
 * 全明星无双
 * 热血无赖
 * 地狱边境
