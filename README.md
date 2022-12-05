@@ -428,6 +428,8 @@
 * 枪火重生
 * 女神异闻录5R
 * 超级幸运狐
+* Vampire Survivors
+* Immortality
 
 
 ### 计划中
