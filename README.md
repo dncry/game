@@ -432,6 +432,7 @@
 * 超级幸运狐
 * Vampire Survivors
 * Immortality
+* 龙之信条 黑暗觉者
 
 
 ### 游玩中
