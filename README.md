@@ -458,6 +458,7 @@
 * Vampire Survivors
 * Immortality
 * 龙之信条 黑暗觉者
+* 死亡循环
 
 
 ### 游玩中
