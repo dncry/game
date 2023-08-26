@@ -494,6 +494,9 @@
 * OPUS: 龙脉常歌
 * 战场的赋格曲
 * 神界 原罪2
+* 传说法师
+* Monster Train
+* Ghost Song
 
 
 ### 游玩中
