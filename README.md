@@ -497,6 +497,7 @@
 * 传说法师
 * Monster Train
 * Ghost Song
+* 暗影火炬城
 
 
 ### 游玩中
