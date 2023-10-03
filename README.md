@@ -500,10 +500,11 @@
 * Monster Train
 * Ghost Song
 * 暗影火炬城
+* 凤凰点
+* XCOM2
 
 
 ### 游玩中
-* 幽浮2（ing）
 * 蔚蓝（ing）
 * 战场女武神（ing）
 * 蝙蝠侠 阿卡姆骑士（ing）
