@@ -502,6 +502,9 @@
 * 暗影火炬城
 * 凤凰点
 * XCOM2
+* Coffee Talk
+* Trek to Yomi 
+
 
 
 ### 游玩中
