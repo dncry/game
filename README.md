@@ -503,7 +503,9 @@
 * 凤凰点
 * XCOM2
 * Coffee Talk
-* Trek to Yomi 
+* Trek to Yomi
+* Cassette Beasts
+* GTA5
 
 
 
