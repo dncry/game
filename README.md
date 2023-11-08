@@ -507,6 +507,8 @@
 * Cassette Beasts
 * GTA5
 * Lies of P
+* 风来之国
+* Valiant Hearts: The Great War
 
 
 
