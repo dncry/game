@@ -511,11 +511,10 @@
 * Lies of P
 * 风来之国
 * Valiant Hearts: The Great War
-
+* 蔚蓝
 
 
 ### 游玩中
-* 蔚蓝（ing）
 * 战场女武神（ing）
 * 蝙蝠侠 阿卡姆骑士（ing）
 * 超级机器人大战X（ing）
