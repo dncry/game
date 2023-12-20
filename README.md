@@ -512,6 +512,9 @@
 * 风来之国
 * Valiant Hearts: The Great War
 * 蔚蓝
+* Wild Hearts
+* Chained Echoes
+* 遗迹2
 
 
 ### 游玩中
