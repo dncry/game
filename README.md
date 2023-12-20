@@ -512,7 +512,7 @@
 * 风来之国
 * Valiant Hearts: The Great War
 * 蔚蓝
-* Wild Hearts
+* 狂野之心
 * Chained Echoes
 * 遗迹2
 
