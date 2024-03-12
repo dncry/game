@@ -521,6 +521,10 @@
 * 遗迹2
 * Coffee Talk 2
 * 灵魂骇客2
+* 战场的赋格曲2
+* Sea of Stars
+* Dead Island 2
+* Brotato
 
 
 ### 游玩中
