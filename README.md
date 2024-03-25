@@ -525,6 +525,9 @@
 * Sea of Stars
 * Dead Island 2
 * Brotato
+* Contrast
+* 洛克人11
+* 日落黄昏时
 
 
 ### 游玩中
