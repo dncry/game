@@ -563,5 +563,5 @@
 * 星露谷物语
 * 破晓传说
 * SUPERHOT:MIND CONTROL DELETE
-* 圣剑传说3 TAIALS of MANA
+* 圣剑传说3 重制版
 
