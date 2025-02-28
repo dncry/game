@@ -564,5 +564,6 @@
 * 破晓传说
 * SUPERHOT:MIND CONTROL DELETE
 * 圣剑传说3 重制版
+* 祇：女神之路
 * Carrion
 
