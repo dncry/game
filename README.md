@@ -1,6 +1,6 @@
 # game
 * 通关游戏列表  
-  (无结局的指玩过相对长一段时间)
+
 
 ## 通关游戏列表
 
@@ -564,4 +564,5 @@
 * 破晓传说
 * SUPERHOT:MIND CONTROL DELETE
 * 圣剑传说3 重制版
+* Carrion
 
