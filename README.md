@@ -568,4 +568,5 @@
 * 祇：女神之路
 * Carrion
 * Balatro
+* 九日
 
