@@ -614,4 +614,5 @@
 * 迸发
 * Catherine Classic
 * 噬神者2 狂怒解放
+* Pyre
 
