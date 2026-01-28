@@ -615,4 +615,8 @@
 * Catherine Classic
 * 噬神者2 狂怒解放
 * Pyre
+* Mystery Chronicle: One Way Heroics
+* 三位一体2
+* 天国 拯救
+* 挺进地牢
 
